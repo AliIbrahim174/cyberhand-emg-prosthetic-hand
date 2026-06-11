@@ -170,35 +170,9 @@ cyberhand-emg-prosthetic-hand/
   docs/
     technical-documentation.pdf
     business-model.pdf
-  media/
-    prototype-images/
-    demo-video/
   hardware/
     circuit-diagram.png
     component-list.md
-```
-
----
-
-## Media
-
-Add project images, demo video, or presentation materials here.
-
-Recommended media:
-
-```text
-media/prototype-images/
-media/demo-video/
-docs/project-presentation.pdf
-docs/technical-documentation.pdf
-hardware/circuit-diagram.png
-```
-
-Example Markdown after uploading images:
-
-```md
-![CyberHand Prototype](media/prototype-images/cyberhand-prototype.jpg)
-![Circuit Diagram](hardware/circuit-diagram.png)
 ```
 
 ---
